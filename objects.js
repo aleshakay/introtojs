@@ -31,7 +31,7 @@ const person={
 findEmployeeStatus(person);
 console.log(`${person.name} is a total ${person.status}`)
 */
-findEmployeeStatus({
-    name:prompt('Enter Employee Name: '),
-    status: ''
-});
+// findEmployeeStatus({
+//     name:prompt('Enter Employee Name: '),
+//     status: ''
+// });
